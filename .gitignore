@@ -1,0 +1,9 @@
+.vscode
+build
+*.exe
+*.ilk
+*.pdb
+/*.dll
+Release/
+Debug/
+space-arcade
